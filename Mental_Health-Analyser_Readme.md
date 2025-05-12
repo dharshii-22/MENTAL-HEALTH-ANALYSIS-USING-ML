@@ -37,11 +37,8 @@ This project presents a predictive machine learning framework to assess the like
 - SHAP
 - Streamlit / Flask (for deployment)
 
----
 
-## 🚀 Getting Started
-
-### 1. Model Evalution
+###  Model Evalution
 
 | Model          | Accuracy | ROC-AUC | Log Loss |
 | -------------- | -------- | ------- | -------- |
@@ -50,6 +47,9 @@ This project presents a predictive machine learning framework to assess the like
 | CatBoost       | 98.2%    | 0.97    | 0.26     |
 | Random Forest  | 97.9%    | 0.95    | 0.30     |
 | Gradient Boost | 97.3%    | 0.94    | 0.31     |
+
+### Sample Output 
+![image](https://github.com/user-attachments/assets/f2c3b43b-deba-4000-a08a-b6de02eaf39e)
 
 📬 Contact
 Mail ID - dharshiny2005@gmail.com
